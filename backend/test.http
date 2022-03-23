@@ -1,0 +1,10 @@
+POST    http://localhost:4000/collections
+Content-Type: application/json
+
+{
+  
+  "collections":"12"
+
+}
+
+office account 1
